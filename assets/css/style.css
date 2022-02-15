@@ -1,0 +1,27 @@
+.slider-height{
+    height: 555px;
+}
+.my-caption{
+    background: rgba(0,0,0,0.7);
+    bottom: 350px;
+}
+.color{
+    color: #1c7430;
+}
+.h-200{height: 200px}
+.h-50{height: 50px}
+.h-600{height: 600px}
+.h-250{height: 250px}
+.h-40{height: 40px}
+.h-500{height: 500px}
+
+
+.front-size{
+    font-size: 13px;
+}
+.fs-16{
+    font-size: 16px;
+}
+.front-bold{
+    font-weight: bold;
+}
